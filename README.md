@@ -1,13 +1,13 @@
 # requirement-analysis
-## What is Requirement Analysis?
+# What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
-### Why is Requirement Analysis Important?
+# Why is Requirement Analysis Important?
 Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
 Basis for Design and Development: Provides a solid foundation for designing and developing the system.
 Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
-#### Key Activities in Requirement Analysis
+# Key Activities in Requirement Analysis
 1. Requirement Gathering
 Engage with stakeholders to collect initial requirements.
 Use various techniques like interviews, surveys, and workshops.
@@ -23,8 +23,8 @@ Create models to visualize and understand the requirements.
 5. Requirement Validation
 Review and validate the requirements with stakeholders.
 Define acceptance criteria and ensure traceability.
-##### Types of Requirements.
-###### 1. Functional Requirements 
+# Types of Requirements.
+## 1. Functional Requirements 
 Definition: Describe what the system should do.
 Examples: User authentication, property search, booking system, user registration.
 
@@ -35,7 +35,7 @@ User Registration: New users should be able to create an account with personal d
 Property Listings: Display properties with essential details and images.
 Booking System: Users should be able to book properties, view booking details, and manage their bookings.
 User Authentication: Secure login and registration process for users.
-###### 2.Non-functional Requirements
+## 2.Non-functional Requirements
 Definition: Describe how the system should perform.
 Examples: Performance, security, scalability, usability, reliability.
 
@@ -46,4 +46,4 @@ Security: Ensure data encryption, secure login, and protect against common vulne
 Scalability: The system should be able to scale horizontally to handle increased traffic.
 Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
-#######  Use Case Diagrams
+# Use Case Diagrams
